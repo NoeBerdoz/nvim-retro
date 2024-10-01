@@ -51,3 +51,6 @@ vim.opt.wildmode = 'list:longest'
 
 -- I don't know i just fix errors
 vim.opt.termguicolors = true
+
+-- Add a vertical bar to 84 characters
+vim.opt.colorcolumn = "84"
